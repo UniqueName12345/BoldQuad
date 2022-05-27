@@ -10,3 +10,5 @@ appropriate runners will be provided again in the future.
 
 ## Other builds
 Currently none! If you want a build, please open an issue or pull request.
+In the meanwhile, if you want a windows version, you can run WSL with Docker.
+
